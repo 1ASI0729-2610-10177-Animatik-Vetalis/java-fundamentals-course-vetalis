@@ -95,4 +95,4 @@ Ver [course-plan.md](./course-plan.md) para el plan de curso detallado con enlac
 ---
 
 Universidad Peruana de Ciencias Aplicadas — Ingeniería de Software  
-1ASI0729 Desarrollo de Aplicaciones Open Source — 2025-20
+1ASI0729 Desarrollo de Aplicaciones Open Source — 2026-10
