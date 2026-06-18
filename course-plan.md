@@ -9,7 +9,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-📂 **Repositorio de Código Fuente**: [https://github.com/grupo3/java-fundamentals-course-grupo3](https://github.com/grupo3/java-fundamentals-course-grupo3)
+📂 **Repositorio de Código Fuente**: [https://github.com/grupo3/java-fundamentals-course-grupo3](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis)
 
 ---
 
