@@ -37,7 +37,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `double` guarda números decimales → `double promedio = 8.5;`
   - `boolean` guarda verdadero o falso → `boolean aprobado = true;`
   - Los nombres de variables deben ser descriptivos (usa camelCase: `miVariable`).
-- **Enlace**: [Ver la lección en YouTube](https://youtu.be/T60eD1hccJw) *
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/T60eD1hccJw) 
 - **Práctica**: [Abrir ejercicio de variables](https://www.jdoodle.com/ga/Sh85kEFDcVnQIE82ZSMe8Q%3D%3D) 👈 **¡Inicio inmediato!**
 
 ---
@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `if (condicion) { }` ejecuta código cuando la condición es verdadera
   - `else { }` se ejecuta cuando la condición es falsa
   - `else if (otraCondicion) { }` evalúa otra condición si la anterior fue falsa
-- **Enlace**: [Ver la lección en YouTube](https://youtu.be/ewIHEkKHFwI) *(próximamente)*
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/ewIHEkKHFwI)
 - **Práctica**: [Abrir ejercicio de decisiones](https://www.jdoodle.com/ga/j5dmcejXW5%2BxSlMYKnjXNA%3D%3D) 👈 **¡No necesitas registrarte!**
 
 ---
@@ -64,7 +64,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Bucle `while`: ideal cuando repites hasta que una condición cambie → `while (condicion) { }`
   - `i++` es equivalente a `i = i + 1` (incremento de uno)
   - ¡Cuidado con los bucles infinitos! Siempre debe existir una condición de salida.
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-4) *(próximamente)*
+- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-4)
 - **Práctica**: [Abrir ejercicio de bucles](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Empieza ahora!**
 
 ---
@@ -78,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `return` devuelve un resultado: `public static int sumar(int a, int b) { return a + b; }`
   - `Scanner scanner = new Scanner(System.in);` permite leer del teclado
   - `scanner.nextLine()` captura texto, `scanner.nextInt()` captura enteros, `scanner.nextDouble()` captura decimales
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-5) *(próximamente)*
+- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-5)
 - **Práctica**: [Abrir ejercicio de métodos e I/O](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Interactúa con tu programa!**
 
 ---
@@ -92,7 +92,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Los **atributos** son las características del objeto (`nombre`, `edad`, `nota`)
   - El **constructor** inicializa el objeto: `public Estudiante(String nombre, int edad, double nota) { }`
   - La **encapsulación** protege los datos con `private` y los expone con getters (`getNombre()`) y setters (`setNota(14.0)`)
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-6) *(próximamente)*
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/3ja61xM65Gk)
 - **Práctica**: [Abrir ejercicio de clases y objetos](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Crea tu primera clase!**
 
 ---
