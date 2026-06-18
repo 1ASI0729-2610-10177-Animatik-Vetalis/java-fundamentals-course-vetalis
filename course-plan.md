@@ -51,8 +51,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `if (condicion) { }` ejecuta código cuando la condición es verdadera
   - `else { }` se ejecuta cuando la condición es falsa
   - `else if (otraCondicion) { }` evalúa otra condición si la anterior fue falsa
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-3) *(próximamente)*
-- **Práctica**: [Abrir ejercicio de decisiones](https://www.jdoodle.com/online-java-compiler/) 👈 **¡No necesitas registrarte!**
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/ewIHEkKHFwI) *(próximamente)*
+- **Práctica**: [Abrir ejercicio de decisiones](https://www.jdoodle.com/ga/j5dmcejXW5%2BxSlMYKnjXNA%3D%3D) 👈 **¡No necesitas registrarte!**
 
 ---
 
@@ -121,7 +121,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 |---|---|---|---|
 | 1 | Hola Mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion1_HolaMundo.java) |
 | 2 | Variables y Tipos de Datos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion2_Variables.java) |
-| 3 | Operadores y Decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion3_Decisiones.java) |
+| 3 | Operadores y Decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://www.jdoodle.com/ga/j5dmcejXW5%2BxSlMYKnjXNA%3D%3D) |
 | 4 | Bucles for y while | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion4_Bucles.java) |
 | 5 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion5_MetodosIO.java) |
 | 6 | Clases y Objetos (POO) | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion6_POO.java) |
