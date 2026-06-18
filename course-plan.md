@@ -93,7 +93,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - El **constructor** inicializa el objeto: `public Estudiante(String nombre, int edad, double nota) { }`
   - La **encapsulación** protege los datos con `private` y los expone con getters (`getNombre()`) y setters (`setNota(14.0)`)
 - **Enlace**: [Ver la lección en YouTube](https://youtu.be/3ja61xM65Gk)
-- **Práctica**: [Abrir ejercicio de clases y objetos](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Crea tu primera clase!**
+- **Práctica**: [Abrir ejercicio de clases y objetos](https://www.jdoodle.com/ga/yguMnlI53Xj66%2BrHhW%2FwZg%3D%3D) 👈 **¡Crea tu primera clase!**
 
 ---
 
