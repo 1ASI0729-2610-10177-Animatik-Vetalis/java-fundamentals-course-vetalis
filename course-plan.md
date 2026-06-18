@@ -64,8 +64,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Bucle `while`: ideal cuando repites hasta que una condición cambie → `while (condicion) { }`
   - `i++` es equivalente a `i = i + 1` (incremento de uno)
   - ¡Cuidado con los bucles infinitos! Siempre debe existir una condición de salida.
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-4)
-- **Práctica**: [Abrir ejercicio de bucles](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Empieza ahora!**
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/nOw8xit6bTw)
+- **Práctica**: [Abrir ejercicio de bucles](https://www.jdoodle.com/ga/YlCLoX47upPN%2Fh7XUu%2B7gA%3D%3D) 👈 **¡Empieza ahora!**
 
 ---
 
@@ -122,7 +122,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Hola Mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion1_HolaMundo.java) |
 | 2 | Variables y Tipos de Datos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion2_Variables.java) |
 | 3 | Operadores y Decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion3_Decisiones.java) |
-| 4 | Bucles for y while | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion4_Bucles.java) |
+| 4 | Bucles for y while | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://www.jdoodle.com/ga/YlCLoX47upPN%2Fh7XUu%2B7gA%3D%3D) |
 | 5 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion5_MetodosIO.java) |
 | 6 | Clases y Objetos (POO) | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion6_POO.java) |
 | 7 | Proyecto Final | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion7_ProyectoFinal.java) |
