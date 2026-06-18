@@ -24,7 +24,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Todo programa Java necesita un método `main` para arrancar: `public static void main(String[] args)`.
   - `System.out.println("texto")` muestra texto en pantalla.
 - **Enlace**: [Ver la lección en YouTube](https://youtu.be/B0KuWScgv8c) *
-- **Empieza a programar**: [Abrir editor - Hola Mundo](https://www.jdoodle.com/online-java-compiler/) 👈 **¡No necesitas cuenta!**
+- **Empieza a programar**: [Abrir editor - Hola Mundo](https://www.jdoodle.com/ga/zPEUCJnmE5VDUawxV2l4XQ%3D%3D) 👈 **¡No necesitas cuenta!**
 
 ---
 
@@ -38,7 +38,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `boolean` guarda verdadero o falso → `boolean aprobado = true;`
   - Los nombres de variables deben ser descriptivos (usa camelCase: `miVariable`).
 - **Enlace**: [Ver la lección en YouTube](https://youtu.be/T60eD1hccJw) *
-- **Práctica**: [Abrir ejercicio de variables](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Abrir ejercicio de variables](https://www.jdoodle.com/ga/Sh85kEFDcVnQIE82ZSMe8Q%3D%3D) 👈 **¡Inicio inmediato!**
 
 ---
 
@@ -113,19 +113,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Recursos Adicionales
 
-**Código fuente completo**: [Repositorio de GitHub](https://github.com/grupo3/java-fundamentals-course-grupo3)
+**Código fuente completo**: [Repositorio de GitHub](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/tree/main/completed-examples)
 
 **Todas las actividades prácticas**:
 
 | N° Lección | Actividad | Editor en línea | Código inicial |
 |---|---|---|---|
-| 1 | Hola Mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion1_HolaMundo.java) |
-| 2 | Variables y Tipos de Datos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion2_Variables.java) |
-| 3 | Operadores y Decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://www.jdoodle.com/ga/j5dmcejXW5%2BxSlMYKnjXNA%3D%3D) |
-| 4 | Bucles for y while | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion4_Bucles.java) |
-| 5 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion5_MetodosIO.java) |
-| 6 | Clases y Objetos (POO) | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion6_POO.java) |
-| 7 | Proyecto Final | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion7_ProyectoFinal.java) |
+| 1 | Hola Mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion1_HolaMundo.java) |
+| 2 | Variables y Tipos de Datos | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion2_Variables.java) |
+| 3 | Operadores y Decisiones | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion3_Decisiones.java) |
+| 4 | Bucles for y while | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion4_Bucles.java) |
+| 5 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion5_MetodosIO.java) |
+| 6 | Clases y Objetos (POO) | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código]([https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion6_POO.java](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion6_POO.java)) |
+| 7 | Proyecto Final | [JDoodle](https://www.jdoodle.com/online-java-compiler/) | [Ver código]([https://github.com/grupo3/java-fundamentals-course-grupo3/blob/main/starter-files/Leccion7_ProyectoFinal.java](https://github.com/1ASI0729-2610-10177-Animatik-Vetalis/java-fundamentals-course-vetalis/blob/main/starter-files/Leccion7_ProyectoFinal.java)) |
 
 **¡Gracias por completar el curso!**
 
