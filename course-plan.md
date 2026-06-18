@@ -78,7 +78,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `return` devuelve un resultado: `public static int sumar(int a, int b) { return a + b; }`
   - `Scanner scanner = new Scanner(System.in);` permite leer del teclado
   - `scanner.nextLine()` captura texto, `scanner.nextInt()` captura enteros, `scanner.nextDouble()` captura decimales
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-5)
+- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-5) falta enlace
 - **Práctica**: [Abrir ejercicio de métodos e I/O](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Interactúa con tu programa!**
 
 ---
