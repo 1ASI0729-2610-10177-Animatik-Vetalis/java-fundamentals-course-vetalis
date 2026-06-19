@@ -78,8 +78,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - `return` devuelve un resultado: `public static int sumar(int a, int b) { return a + b; }`
   - `Scanner scanner = new Scanner(System.in);` permite leer del teclado
   - `scanner.nextLine()` captura texto, `scanner.nextInt()` captura enteros, `scanner.nextDouble()` captura decimales
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-5) falta enlace
-- **Práctica**: [Abrir ejercicio de métodos e I/O](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Interactúa con tu programa!**
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/fs3GdZwlk-o)
+- **Práctica**: [Abrir ejercicio de métodos e I/O](https://www.jdoodle.com/ga/DblzQ%2FySucFLGwKhSqApdQ%3D%3D) 👈 **¡Interactúa con tu programa!**
 
 ---
 
@@ -106,8 +106,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
   - Errores comunes: olvidar `;`, confundir `=` (asignación) con `==` (comparación), índice fuera de rango en arrays
   - Mejores prácticas: nombres descriptivos, una responsabilidad por método, probar con datos de prueba
   - Recursos para seguir: [Oracle Java Docs](https://docs.oracle.com/javase/tutorial/), [Codecademy Java](https://www.codecademy.com/learn/learn-java), [Stack Overflow](https://stackoverflow.com/questions/tagged/java)
-- **Enlace**: [Ver la lección en YouTube](https://www.youtube.com/watch?v=PENDIENTE-LECCION-7) *(próximamente)*
-- **Proyecto final**: [Construye tu Sistema de Registro](https://www.jdoodle.com/online-java-compiler/) 👈 **¡Guarda y comparte tu código!**
+- **Enlace**: [Ver la lección en YouTube](https://youtu.be/fihm2qsbvKo)
+- **Proyecto final**: [Construye tu Sistema de Registro](https://www.jdoodle.com/ga/4d0Xo0zemFz2Dq0O8fQGKw%3D%3D) 👈 **¡Guarda y comparte tu código!**
 
 ---
 
